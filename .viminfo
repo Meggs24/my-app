@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1662902341,,"wq!"
+|2,0,1662915444,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,56 @@
 # Registers:
 
 # File marks:
-'0  2  13  ~/my-ap/meg
-|4,48,2,13,1662902341,"~/my-ap/meg"
-'1  1  0  ~/my-app/.git/COMMIT_EDITMSG
-|4,49,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
-'2  2  10  ~/my-app/meg
-|4,50,2,10,1662566716,"~/my-app/meg"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1662915444,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/my-ap/jenkins/maven
+|4,49,1,0,1662913982,"~/my-ap/jenkins/maven"
+'2  2  13  ~/my-ap/meg
+|4,50,2,13,1662902341,"~/my-ap/meg"
+'3  1  0  ~/my-app/.git/COMMIT_EDITMSG
+|4,51,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
+'4  2  10  ~/my-app/meg
+|4,52,2,10,1662566716,"~/my-app/meg"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1662915444,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/my-ap/jenkins/maven
+|4,39,1,0,1662913982,"~/my-ap/jenkins/maven"
+-'  1  0  ~/my-ap/jenkins/maven
+|4,39,1,0,1662913982,"~/my-ap/jenkins/maven"
 -'  2  13  ~/my-ap/meg
 |4,39,2,13,1662902341,"~/my-ap/meg"
+-'  2  13  ~/my-ap/meg
+|4,39,2,13,1662902341,"~/my-ap/meg"
+-'  2  13  ~/my-ap/meg
+|4,39,2,13,1662902341,"~/my-ap/meg"
+-'  2  13  ~/my-ap/meg
+|4,39,2,13,1662902341,"~/my-ap/meg"
+-'  1  0  ~/my-ap/meg
+|4,39,1,0,1662902321,"~/my-ap/meg"
+-'  1  0  ~/my-ap/meg
+|4,39,1,0,1662902321,"~/my-ap/meg"
+-'  1  0  ~/my-ap/meg
+|4,39,1,0,1662902321,"~/my-ap/meg"
 -'  1  0  ~/my-ap/meg
 |4,39,1,0,1662902321,"~/my-ap/meg"
 -'  1  0  ~/my-app/.git/COMMIT_EDITMSG
 |4,39,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
 -'  1  0  ~/my-app/.git/COMMIT_EDITMSG
 |4,39,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
+-'  1  0  ~/my-app/.git/COMMIT_EDITMSG
+|4,39,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
+-'  1  0  ~/my-app/.git/COMMIT_EDITMSG
+|4,39,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
+-'  1  0  ~/my-app/.git/COMMIT_EDITMSG
+|4,39,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
+-'  1  0  ~/my-app/.git/COMMIT_EDITMSG
+|4,39,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
+-'  1  0  ~/my-app/.git/COMMIT_EDITMSG
+|4,39,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
+-'  1  0  ~/my-app/.git/COMMIT_EDITMSG
+|4,39,1,0,1662567342,"~/my-app/.git/COMMIT_EDITMSG"
 -'  2  10  ~/my-app/meg
 |4,39,2,10,1662566716,"~/my-app/meg"
 -'  2  10  ~/my-app/meg
@@ -49,6 +83,54 @@
 |4,39,2,10,1662566716,"~/my-app/meg"
 -'  2  10  ~/my-app/meg
 |4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  2  10  ~/my-app/meg
+|4,39,2,10,1662566716,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
+-'  1  0  ~/my-app/meg
+|4,39,1,0,1662566660,"~/my-app/meg"
 -'  1  0  ~/my-app/meg
 |4,39,1,0,1662566660,"~/my-app/meg"
 -'  1  0  ~/my-app/meg
@@ -59,6 +141,16 @@
 |4,39,1,0,1662566660,"~/my-app/meg"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1662915441	0
+	"	1	0
+
+> ~/my-ap/jenkins/maven
+	*	1662903763	0
+	"	1	0
+	.	2	0
+	+	2	0
 
 > ~/my-ap/meg
 	*	1662902339	0

@@ -171,3 +171,30 @@ ls
 git commit -m "first commit
 
 
+mvn
+mvn --version
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-ap -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+cd my-ap
+mvn package
+ls
+vi meg
+ls
+touch meg
+cat meg
+git status
+git add
+git add .
+git commit -m "first commit"
+git branch -M main
+git status
+git remote add origin https://github.com/Meggs24/my-app.git
+git push -u origin main
+git config --global user.name "Meghna"
+git config --global user.email "meghnapushpam@yahoo.com"
+git config --ist
+git config --list
+mkdir jenkins project
+ls
+cd jenkins
+touch
+vi maven
