@@ -1,0 +1,7 @@
+install maven ->yum install maven -y
+      steps to create maven project :
+            -> mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart
+                                                    -DarchetypeVersion=1.4 -DinteractiveMode=false
+           -> cd my-app
+          
+           -> mvn package (this will build the project)
